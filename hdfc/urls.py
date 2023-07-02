@@ -21,4 +21,5 @@ from loan import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.loan_accounts),
+    path('/loan', views.loan_details),
 ]
