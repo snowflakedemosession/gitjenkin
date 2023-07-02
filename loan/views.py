@@ -5,3 +5,6 @@ def loan_accounts(r):
     return HttpResponse('<h1> Love You Manisha</h1>')
 def loan_details(r):
     return HttpResponse('<h1> 1.Personal Loan</h1>')
+
+def loan_for(r):
+    return HttpResponse('<h1>welocome</h1>')
