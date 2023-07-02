@@ -7,4 +7,4 @@ def loan_details(r):
     return HttpResponse('<h1> 1.Personal Loan</h1>')
 
 def loan_for(r):
-    return HttpResponse('<h1>welocome sadas</h1>')
+    return HttpResponse('<h1>welocome sadasdfd</h1>')
